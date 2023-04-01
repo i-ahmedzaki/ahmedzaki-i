@@ -1,14 +1,14 @@
 # About me
-Hello I'm Ahmed Zaki From **Cairo, Egypt**, I'm Front-End Developer & Back-End Developer, I have the passion to learn more information.
+Hello I am Ahmed Zaki From **Cairo, Egypt**, I am Junior Developer, I have the passion to learn more information and need to Survive to Win
 
 
 # Quick information
-- 👋 Hi, I’m Ahmed Zaki (@ahmedzaki-i)
-- 👀 I’m interested in PC/PS Games, Watching Movies and Series, Writing Codes
+- 👋 Hi, I’m Ahmed Zaki
+- 👀 I’m interested in PC Games, Writing Codes
 - 🌱 I’m currently learning I'm still learning
-- 💞️ I’m looking to collaborate on Protect people's data from hackers
+- 👑 I need to Survive to Win
 - 📫 How to reach me [Mail](mailto:ahmedzaki_@outlook.com)
-- 🕵 You can found me here [Codepen](https://codepen.io/ahmedzaki)
+- 🕵 You can found me here [Twitter](https://twitter.com/i_ahmedzaki)
 
 
 
